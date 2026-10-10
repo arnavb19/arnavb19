@@ -22,10 +22,11 @@ an **entrepreneur's eye for real-world problems**, and a **leader's drive** to t
 
 Hard-working, endlessly curious, and happiest when I'm learning something new or shipping something that matters.
 
-- 🔬 **Published researcher** — papers in **Springer** and **IEEE Xplore**
-- 🏆 **Internal SIH (ISIH) Winner** — selected to represent my college at the national Smart India Hackathon
+- 🔬 **Published researcher** with papers in **Springer** and **IEEE Xplore**
+- 📜 **Published patent** (filed, not yet granted)
+- 🏆 **Internal SIH (ISIH) Winner**, selected to represent my college at the national Smart India Hackathon
 - 🛰️ I build **IoT + edge systems** that work where normal infrastructure fails
-- 💼 Ex **Sales & Operations Intern** @ PuzzleBite — signed cafes/restaurants and ran location & market data analysis
+- 💼 Ex **Sales & Operations Intern** @ PuzzleBite, where I signed cafes/restaurants and ran location & market data analysis
 - 🎯 Interested in **Research · Cybersecurity · IoT · Edge Computing · Game Dev · Data Analytics**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:36C5F0,100:2C5364&height=3" width="100%" />
@@ -45,35 +46,36 @@ Hard-working, endlessly curious, and happiest when I'm learning something new or
 
 <sub>Also working with: <b>Claude Code</b> · ESP-32 / embedded firmware · AR development</sub>
 
+
 <!-- ============ FEATURED PROJECTS ============ -->
 ## Featured Projects
 
-### 🚨 ARC-A — IoT Disaster-Response Device
+### 🚨 ARC-A · IoT Disaster-Response Device
 A low-cost, multi-purpose **ESP-32** device built to assist first responders in disaster zones. Designed for affordability and field reliability where it matters most.
-`ESP-32` `IoT` `Embedded C++`
+`ESP-32` `IoT` 
 
-### 📡 R.A.F.T — Infrastructure-less MESH Comms *(in progress)*
-An IoT **mesh network** that keeps communities connected during floods when cell towers and internet go down — no infrastructure required.
-`IoT` `Mesh Networking` `Edge`
+### 📡 R.A.F.T · Infrastructure-less MESH Comms *(in progress)*
+An IoT **mesh network** that keeps communities connected during floods when cell towers and internet go down, with no fixed infrastructure required.
+`IoT` `Mesh Networking` `LoRa`
 
-### 🧠 OverSeer — AI Project-Management System
+### 🧠 OverSeer · AI Project-Management System
 Analyzes repositories to flag **delays** and **information concentration**, then recommends the right people based on team skill profiles to unblock a project.
 `AI` `Data Analytics` `Python`
 
-### ⛏️ Suraksha-AR — Mine Safety Training Simulator
+### ⛏️ Suraksha-AR · Mine Safety Training Simulator
 An **AR** training simulator built for Jharkhand mine workers to practice safety procedures in an immersive, risk-free environment.
-`Unity` `AR` `Simulation`
+`WebXR` `AR` `Simulation`
 
-<sub>⭐ Pin these repos on your profile and give each one its own README with a demo GIF.</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:36C5F0&height=3" width="100%" />
 
 <!-- ============ RESEARCH & ACHIEVEMENTS ============ -->
 ## Research & Achievements
 
-- 📄 **Springer** — *[Paper title](PAPER_LINK)*
-- 📄 **IEEE Xplore** — *[Paper title](PAPER_LINK)*
-- 🏆 **Internal SIH (ISIH) Winner** — top team selected from the college to represent it at the national Smart India Hackathon
+- 📄 **Springer** · *Smart Rescue: Prototype of a Low-Cost Modular IoT System for Disaster Response(https://link.springer.com/chapter/10.1007/978-3-032-20606-0_18)*
+- 📄 **IEEE Xplore** · *GenDetective: A Multimodal Extension for Detecting Synthetic Media Using Forensic Analysis with Gemini-Aided LLM Reasoning(https://ieeexplore.ieee.org/document/11629638)*
+- 📜 **Patent (published, not yet granted)** · *Application No.202621066841 A*
+- 🏆 **Internal SIH (ISIH) Winner** · top team selected from the college to represent it at the national Smart India Hackathon
 
 <!-- ============ STATS ============ -->
 <h2 align="center">Activity</h2>
@@ -89,9 +91,9 @@ An **AR** training simulator built for Jharkhand mine workers to practice safety
 <h2 align="center">Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arnav-borde-76365833a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/arnavb19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:arnavborde06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
